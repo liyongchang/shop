@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://D:/IdeaProjects/gcommerce-web/src/maven/lib/recaptcha4j-0.0.7.jar!/" />
+      <root url="jar://D:/IdeaProjects/gcommerce-web/src/maven/lib/googlechartwrapper_1.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
